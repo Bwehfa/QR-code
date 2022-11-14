@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(174, 211, 243);
+}
+.main-section{
+    text-align: center;
+
+    width: 200px;
+    padding: 0;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    border-radius: 20px;
+    
+    vertical-align: center;
+}
+.top-section{
+    
+    min-height: 100vh; /* minimum height = screen height */
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+div img{
+    border-radius: 5px;
+    margin-top: 10px;-0
+}
+p{
+    font-weight:780;
+    font-family: 'Poppins', sans-serif;
+}
+h5{
+    font-weight: 100;
+}
+.attribution{
+    text-align: center;
+}
